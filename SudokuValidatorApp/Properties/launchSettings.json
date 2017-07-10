@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SudokuValidatorApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\examples\\sudokuvalidatorapp\\resources\\input_sudoku.txt\""
+    }
+  }
+}
